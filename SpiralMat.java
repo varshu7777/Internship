@@ -1,5 +1,5 @@
 import java.util.*;
-class SpiralMat {
+class SpiralMat{
     // Function to return a list of integers denoting spiral traversal of matrix.
     public ArrayList<Integer> spirallyTraverse(int mat[][]) {
         // code here
